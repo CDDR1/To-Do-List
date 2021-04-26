@@ -1,1 +1,1 @@
-This is a simple todo list using JavaScript. 
+This is a simple todo list made using JavaScript. 
